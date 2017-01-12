@@ -122,8 +122,10 @@ padding: 0px 10px;
 
 
 
-<!--contact starts -->
-address{
+/*contact starts --*/
+
+.add {
+color: rgba(0, 0, 100, 1);
 }
 
 .contact-container{
