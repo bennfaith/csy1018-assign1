@@ -1,0 +1,165 @@
+body{
+font-family: 'Roboto', sans-serif;
+min-height: -100vh;
+}
+.flex-container-nav{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+  background-color: #1e1e1e;
+}
+.ul-nav{
+  display: inline-flex;
+    list-style-type: none;
+}
+.li-nav a{
+  list-style-type: none;
+  margin: 10px;
+  transition: 0.1s;
+}
+.li-nav a:hover{
+  list-style-type: none;
+  margin: 10px;
+  transition: 0.9s;
+  color: blue;
+}
+.nav-link{
+  text-decoration: none;
+  color:white;
+}
+.container-main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #E5E5E5;
+  height: 450px;
+}
+.header-main{
+  margin-top: -100px;
+  font-weight: 700;
+}
+.header-image{
+  display: flex;
+  margin-top: 8%;
+  max-width:35%;
+  max-height: 35%;
+}
+
+.container-content{
+  display: flex;
+  flex-direction: column;
+  height: 450px;
+
+}
+.content-header{
+  text-align: center;
+}
+.content-col-1{
+  flex-grow: 1;
+  align-self: center;
+}
+
+.col-1-link {
+  text-decoration: none;
+  color: black;
+
+}
+.col-2-link{
+  color: black;
+}
+.col-3-link{
+  color: black;
+}
+.content-col-2{
+  flex-grow: 1;
+  background-color: red;
+}
+.content-col-3{
+  flex-grow: 1;
+  background-color: blue;
+}
+
+
+<!-------footer starts-------------------->
+.foot{
+  background-color: none;
+  color: white;
+  margin-top: 30px;
+  padding: 20px
+
+}
+.bottom-foot{
+border-top: 1px solid black;
+margin-top: 10px;
+padding-top: 10px;
+color: black;
+}
+.footnav li{
+  display: inline;
+
+}
+.footnav li:not(:first-child):before {
+content:'|';
+padding: 0px 10px;
+}
+.footnav{
+  text-align: right;
+  list-style: none;
+}
+.footnav a{
+  color: blue;
+}
+.footnav a:hover{
+  color:  black;
+  text-decoration:none;
+}
+.row{
+  color: black;
+}
+/*footer ends------------------*/
+
+
+
+<!--contact starts -->
+address{
+}
+
+.contact-container{
+  width: 960px;
+  height: 700px;
+  margin-left:auto;
+  margin-right: auto;
+  background-color:#E5E5E5;
+  padding:20px;
+  margin-top: 20px;
+  box-shadow:3px 4px;
+}
+.contact-left{
+  float:left;
+  width:50%
+
+
+}
+.contact-right{
+  float:right;
+  width: 40%;
+
+}
+.contact-input-ctl{
+  padding:5px;
+  margin-bottom:20px;
+}
+
+.cv-container{
+  width: 960px;
+  height: 700px;
+  margin-left:auto;
+  margin-right: auto;
+  background-color:#E5E5E5;
+  padding:20px;
+  margin-top: 20px;
+  box-shadow:3px 4px;
+
+  <!--contact file-->
