@@ -1,3 +1,6 @@
+Bernard Boadi
+
+
 The assignment approximately took me not more than 22 hours to complete.
 
 28/12/2016. 
@@ -19,6 +22,7 @@ All index and CSS files for footer was done only on the homepage but not link to
 Footer was linked to all files and it display attached to each file as the button was clicked. Fortunately all files were able to push to git hub with new repository
 
 13/01/2017
+Push all readme files to git hub and styling texting in cv.html and bo.html. 
 
 
 
