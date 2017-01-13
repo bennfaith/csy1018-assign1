@@ -80,6 +80,15 @@ min-height: -100vh;
   flex-grow: 1;
   background-color: blue;
 }
+bio{
+
+}
+.cities{
+  background-color: black;
+  color: white;
+  margin: 20px 0 20px 0;
+  padding: 20px
+}
 
 
 <!-------footer starts-------------------->
@@ -164,4 +173,4 @@ color: rgba(0, 0, 100, 1);
   margin-top: 20px;
   box-shadow:3px 4px;
 
-  <!--contact file-->
+  /*contact starts --*/
