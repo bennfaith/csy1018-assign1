@@ -80,9 +80,7 @@ min-height: -100vh;
   flex-grow: 1;
   background-color: blue;
 }
-bio{
 
-}
 .cities{
   background-color: black;
   color: white;
@@ -91,7 +89,8 @@ bio{
 }
 
 
-<!-------footer starts-------------------->
+/*footer starts------------------*/
+
 .foot{
   background-color: none;
   color: white;
@@ -172,5 +171,16 @@ color: rgba(0, 0, 100, 1);
   padding:20px;
   margin-top: 20px;
   box-shadow:3px 4px;
+}
 
   /*contact starts --*/
+
+  /*----media starts------------------*/
+
+@media screen and (max-width: 600px){
+  nav ul li{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+  }
+  }

@@ -18,8 +18,18 @@ All index and CSS files for footer was done only on the homepage but not link to
 12/01/2017
 Footer was linked to all files and it display attached to each file as the button was clicked. Fortunately all files were able to push to git hub with new repository
 
+13/01/2017
 
 
 
 
+References:
+
+w3schools. (1999-2017). html reference. Available: http://www.w3schools.com. Last accessed 12/01/201 l
+
+Uri Mikhli. (2013). footer css. Available: stackoverflow.com/questions/20356023/how-to-create-a-footer-in-html-document. Last accessed 13/01/16.
+
+Github inc. (2012). files to repository. Available: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/. Last accessed 13/01/16.
+Brandon. (2014). create nav bar. Available: https://www.youtube.com/watch?v=_ovlvYH782c. Last accessed 13/01/16.
+123contact. (2011). contact form. Available: www.123contactform.com/contact/formbuilder. Last accessed 13/01/16.
 
