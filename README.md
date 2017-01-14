@@ -1,5 +1,7 @@
 Bernard Boadi
+
 Assignment 1
+
 CSY1018
 
 The assignment approximately took me not more than 22 hours to complete.

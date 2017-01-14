@@ -6,7 +6,7 @@ min-height: -100vh;
   display: flex;
   flex-direction: column;
   width: 100%;
-  margin: auto;
+  margin: auto;;
   background-color: #1e1e1e;
 }
 .ul-nav{
@@ -50,8 +50,8 @@ min-height: -100vh;
 .container-content{
   display: flex;
   flex-direction: column;
-  height: 450px;
-
+  height: 700px;
+  width: 400px;
 }
 .content-header{
   text-align: center;
@@ -84,7 +84,7 @@ min-height: -100vh;
 .cities{
   background-color: black;
   color: white;
-  margin: 20px 0 20px 0;
+  margin: none;
   padding: 20px
 }
 
@@ -92,15 +92,16 @@ min-height: -100vh;
 /*footer starts------------------*/
 
 .foot{
-  background-color: none;
+  background-color: grey;
   color: white;
-  margin-top: 30px;
+  margin-top: 10px;
   padding: 20px
 
 }
 .bottom-foot{
 border-top: 1px solid black;
 margin-top: 10px;
+margin-bottom: 10px;
 padding-top: 10px;
 color: black;
 }
@@ -177,10 +178,14 @@ color: rgba(0, 0, 100, 1);
 
   /*----media starts------------------*/
 
-@media screen and (max-width: 600px){
-  nav ul li{
-    box-sizing: border-box;
+@media screen and (max-width: 250px){
+  body{
+  font-family: 'Roboto', sans-serif;
+  min-height: -100vh;
+  }
+  .flex-container-nav{
+    display: flex;
+    flex-direction: column;
     width: 100%;
-    padding: 15px;
-  }
-  }
+    margin: auto;;
+    background-color: red;
