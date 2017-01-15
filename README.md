@@ -1,8 +1,10 @@
 Bernard Boadi
-
-Assignment 1
-
 CSY1018
+https://github.com/bennfaith/csy1018-assign1.git
+Assignment 1: Web development
+Submission date: 15/01/2017
+
+
 
 The assignment approximately took me not more than 22 hours to complete.
 
@@ -27,6 +29,8 @@ Footer was linked to all files and it display attached to each file as the butto
 13/01/2017
 Push all readme files to git hub and styling texting in cv.html and bo.html. 
 
+14/01/2017
+Pushed media query to git hub
 
 
 
