@@ -1,7 +1,18 @@
 Bernard Boadi
-CSY1018
+
+
+15400228
+
+
+
 https://github.com/bennfaith/csy1018-assign1.git
+
+
+
 Assignment 1: Web development
+
+
+
 Submission date: 15/01/2017
 
 
